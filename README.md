@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🎓 I'm currently pursuing a PhD in Machine Learning for Audio and Music at the Music Technology Group (@MTG) of the Universitat Pompeu Fabra.
+- 🎓 I'm currently pursuing a PhD in Machine Learning for Audio and Music at the [Music Technology Group](https://www.upf.edu/web/mtg) of [Universitat Pompeu Fabra](https://www.upf.edu/en).
 - 🎵 My research focuses on the intersection of music and language, with a particular interest in music information retrieval and natural language processing. 
 - 📄 For a list of my publications, please visit my [ORCID profile](https://orcid.org/0000-0002-5760-6922) or my [Google Scholar profile](https://scholar.google.com/citations?user=5IwKm28AAAAJ).
 - 🐍 I mostly code in Python and use PyTorch for deep learning.
