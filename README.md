@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🎓 I'm currently pursuing a PhD in Machine Learning for Audio and Music at the Music Technology Group (@MTG) of the Universitat Pompeu Fabra.
+- 🎵 My research focuses on the intersection of music and language, with a particular interest in music information retrieval and natural language processing. 
+- 📄 For a list of my publications, please visit my [ORCID profile](https://orcid.org/0000-0002-5760-6922) or my [Google Scholar profile](https://scholar.google.com/citations?user=5IwKm28AAAAJ).
+- 🐍 I mostly code in Python and use PyTorch for deep learning.
+- :octocat: I help out with maintaining [Freesound](https://github.com/MTG/freesound)
+
 <!--
 **Bomme/Bomme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
